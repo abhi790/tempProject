@@ -1,0 +1,14 @@
+
+[DAY 1]
+
+
+--External API found
+
+--Understanding the Use Cases
+
+--Started Covid Services Web API Project
+
+[Day 2]
+
+
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidService", "CovidService.csproj", "{059471F9-B775-4D17-8340-805A07CAFE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidService.Test", "..\CovidService.Test\CovidService.Test.csproj", "{6D659D99-FE76-47EA-BF61-24EFAD2AEBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059471F9-B775-4D17-8340-805A07CAFE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059471F9-B775-4D17-8340-805A07CAFE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059471F9-B775-4D17-8340-805A07CAFE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059471F9-B775-4D17-8340-805A07CAFE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D659D99-FE76-47EA-BF61-24EFAD2AEBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D659D99-FE76-47EA-BF61-24EFAD2AEBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D659D99-FE76-47EA-BF61-24EFAD2AEBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D659D99-FE76-47EA-BF61-24EFAD2AEBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70165A0D-948D-459F-9AC6-3EB3F7A48B68}
+	EndGlobalSection
+EndGlobal
